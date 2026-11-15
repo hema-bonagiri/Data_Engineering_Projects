@@ -5,7 +5,7 @@ An end-to-end online learning analytics ETL pipeline built using Azure Databrick
 It transforms raw course enrollment data into clean, business-ready tables with data quality checks, duplicate detection, email normalization, reconciliation, and dashboard reporting.
 
 ## Architecture
-![Project Architecture](Images/architecture.png)
+![Architecture](images/architecture.png)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ The project follows three layers:
 | Gold      | Create business-ready analytical summary tables |
 
 ## Pipeline Lineage
-![Pipeline Lineage](Images/Pipeline_graph.png)
+![Pipeline Lineage](images/Pipeline_graph.png)
 
 
 | **Table**                     | **Description**                             |
